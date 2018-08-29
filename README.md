@@ -1,9 +1,5 @@
 # Rocket-Ship
 
-==============================================
-To run the implementation
-==============================================
-
 A. Compile and run the Server.java file
 		
 		Step 1: Navigate into the src directory of this project.
@@ -14,7 +10,7 @@ A. Compile and run the Server.java file
 		Step 3: On the command line, type in: java Server
 		(to run the Server.java class).
 
-2. Then, compile and run the SpaceFleetClients.java file
+B. Then, compile and run the SpaceFleetClients.java file
 		
 		Step 1: Navigate into the src directory of this project.
 		
