@@ -1,4 +1,4 @@
-# Rocket-Ship
+# Shuttle-Station
 
 A. Compile and run the Server.java file
 		
