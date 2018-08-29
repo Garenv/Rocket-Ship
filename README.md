@@ -1,5 +1,7 @@
 # Shuttle-Station
 
+Shuttle­Station is a monitor that synchronizes threads to work closely together to signal the station whenever it’s open allowing shuttles to fill their tanks with fuel if need be so that they can be ready for take off. Created additional client threads to establish a connection to simulate Remote Procedure Call (RPC) communication.
+
 A. Compile and run the Server.java file
 		
 		Step 1: Navigate into the src directory of this project.
